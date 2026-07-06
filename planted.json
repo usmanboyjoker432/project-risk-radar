@@ -1,0 +1,77 @@
+[
+  {
+    "id": "PRJ-141",
+    "type": "blocker",
+    "note": "staging environment is down"
+  },
+  {
+    "id": "PRJ-142",
+    "type": "blocker",
+    "note": "waiting on fraud-check API keys"
+  },
+  {
+    "id": "PRJ-143",
+    "type": "blocker",
+    "note": "blocked by app store review"
+  },
+  {
+    "id": "PRJ-144",
+    "type": "risk",
+    "note": "due date slipped twice"
+  },
+  {
+    "id": "PRJ-145",
+    "type": "risk",
+    "note": "due date slipped twice"
+  },
+  {
+    "id": "PRJ-146",
+    "type": "risk",
+    "note": "due date slipped twice"
+  },
+  {
+    "id": "PRJ-147",
+    "type": "risk",
+    "note": "no activity 8 days"
+  },
+  {
+    "id": "PRJ-148",
+    "type": "risk",
+    "note": "no activity 8 days"
+  },
+  {
+    "id": "PRJ-149",
+    "type": "risk",
+    "note": "no activity 8 days"
+  },
+  {
+    "id": "PRJ-150",
+    "type": "dependency",
+    "note": "upstream item overdue"
+  },
+  {
+    "id": "PRJ-151",
+    "type": "dependency",
+    "note": "chain with late upstream"
+  },
+  {
+    "id": "PRJ-152",
+    "type": "dependency",
+    "note": "chain with late upstream"
+  },
+  {
+    "id": "standup-ravi-auth",
+    "type": "blocker",
+    "note": "repeated 'waiting on auth team' 3 days"
+  },
+  {
+    "id": "standup-lena-slip",
+    "type": "risk",
+    "note": "might slip + scope growth"
+  },
+  {
+    "id": "standup-jen-legal",
+    "type": "dependency",
+    "note": "needs legal sign-off"
+  }
+]

@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "PRJ-101",
+    "team": "Mobile",
+    "title": "Checkout Flow task 1",
+    "status": "In Progress",
+    "assignee": "Chris",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-102",
+    "team": "Platform",
+    "title": "Billing Export task 2",
+    "status": "In Progress",
+    "assignee": "Aisha",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-103",
+    "team": "Mobile",
+    "title": "Checkout Flow task 3",
+    "status": "Done",
+    "assignee": "Lena",
+    "due_date": "2026-07-14",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-104",
+    "team": "Platform",
+    "title": "Checkout Flow task 4",
+    "status": "In Progress",
+    "assignee": "Jen",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-105",
+    "team": "Mobile",
+    "title": "Search Indexing task 5",
+    "status": "Done",
+    "assignee": "Priya",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-106",
+    "team": "Mobile",
+    "title": "Rate Limiter task 6",
+    "status": "In Progress",
+    "assignee": "Priya",
+    "due_date": "2026-07-15",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-107",
+    "team": "Payments",
+    "title": "Search Indexing task 7",
+    "status": "In Progress",
+    "assignee": "Sofia",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-108",
+    "team": "Payments",
+    "title": "Login Refactor task 8",
+    "status": "In Progress",
+    "assignee": "Sofia",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-109",
+    "team": "Platform",
+    "title": "Checkout Flow task 9",
+    "status": "To Do",
+    "assignee": "Marco",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-110",
+    "team": "Payments",
+    "title": "Login Refactor task 10",
+    "status": "In Progress",
+    "assignee": "Sofia",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-111",
+    "team": "Mobile",
+    "title": "Checkout Flow task 11",
+    "status": "To Do",
+    "assignee": "Priya",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-112",
+    "team": "Payments",
+    "title": "Dashboard Charts task 12",
+    "status": "Done",
+    "assignee": "Tom",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-113",
+    "team": "Platform",
+    "title": "Search Indexing task 13",
+    "status": "Done",
+    "assignee": "Marco",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-114",
+    "team": "Platform",
+    "title": "Billing Export task 14",
+    "status": "In Progress",
+    "assignee": "Marco",
+    "due_date": "2026-07-14",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-115",
+    "team": "Payments",
+    "title": "Dashboard Charts task 15",
+    "status": "In Progress",
+    "assignee": "Sofia",
+    "due_date": "2026-07-13",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-116",
+    "team": "Platform",
+    "title": "Login Refactor task 16",
+    "status": "Done",
+    "assignee": "Jen",
+    "due_date": "2026-07-18",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-117",
+    "team": "Platform",
+    "title": "Push Notifications task 17",
+    "status": "Done",
+    "assignee": "Aisha",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-118",
+    "team": "Platform",
+    "title": "Onboarding Screens task 18",
+    "status": "To Do",
+    "assignee": "Jen",
+    "due_date": "2026-07-12",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-119",
+    "team": "Mobile",
+    "title": "Billing Export task 19",
+    "status": "Done",
+    "assignee": "Lena",
+    "due_date": "2026-07-13",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-120",
+    "team": "Platform",
+    "title": "Search Indexing task 20",
+    "status": "To Do",
+    "assignee": "Marco",
+    "due_date": "2026-07-14",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-121",
+    "team": "Platform",
+    "title": "Billing Export task 21",
+    "status": "Done",
+    "assignee": "Marco",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-122",
+    "team": "Platform",
+    "title": "Onboarding Screens task 22",
+    "status": "To Do",
+    "assignee": "Marco",
+    "due_date": "2026-07-18",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-123",
+    "team": "Platform",
+    "title": "Login Refactor task 23",
+    "status": "In Progress",
+    "assignee": "Jen",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-124",
+    "team": "Mobile",
+    "title": "Login Refactor task 24",
+    "status": "Done",
+    "assignee": "Chris",
+    "due_date": "2026-07-17",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-125",
+    "team": "Mobile",
+    "title": "Rate Limiter task 25",
+    "status": "To Do",
+    "assignee": "Lena",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-126",
+    "team": "Mobile",
+    "title": "Onboarding Screens task 26",
+    "status": "In Progress",
+    "assignee": "Lena",
+    "due_date": "2026-07-20",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-127",
+    "team": "Platform",
+    "title": "Push Notifications task 27",
+    "status": "Done",
+    "assignee": "Jen",
+    "due_date": "2026-07-10",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-128",
+    "team": "Payments",
+    "title": "Checkout Flow task 28",
+    "status": "To Do",
+    "assignee": "Tom",
+    "due_date": "2026-07-14",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-129",
+    "team": "Payments",
+    "title": "Login Refactor task 29",
+    "status": "Done",
+    "assignee": "Tom",
+    "due_date": "2026-07-08",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-130",
+    "team": "Mobile",
+    "title": "Checkout Flow task 30",
+    "status": "Done",
+    "assignee": "Chris",
+    "due_date": "2026-07-16",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-131",
+    "team": "Mobile",
+    "title": "Dashboard Charts task 31",
+    "status": "In Progress",
+    "assignee": "Chris",
+    "due_date": "2026-07-12",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-132",
+    "team": "Platform",
+    "title": "Onboarding Screens task 32",
+    "status": "In Progress",
+    "assignee": "Jen",
+    "due_date": "2026-07-19",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-133",
+    "team": "Payments",
+    "title": "Push Notifications task 33",
+    "status": "Done",
+    "assignee": "Tom",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-134",
+    "team": "Payments",
+    "title": "Billing Export task 34",
+    "status": "In Progress",
+    "assignee": "Ravi",
+    "due_date": "2026-07-13",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-135",
+    "team": "Mobile",
+    "title": "Search Indexing task 35",
+    "status": "Done",
+    "assignee": "Chris",
+    "due_date": "2026-07-13",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-136",
+    "team": "Platform",
+    "title": "Checkout Flow task 36",
+    "status": "To Do",
+    "assignee": "Marco",
+    "due_date": "2026-07-20",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "To Do",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-137",
+    "team": "Platform",
+    "title": "Search Indexing task 37",
+    "status": "In Progress",
+    "assignee": "Aisha",
+    "due_date": "2026-07-17",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-138",
+    "team": "Platform",
+    "title": "Onboarding Screens task 38",
+    "status": "In Progress",
+    "assignee": "Jen",
+    "due_date": "2026-07-20",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-139",
+    "team": "Platform",
+    "title": "Push Notifications task 39",
+    "status": "Done",
+    "assignee": "Jen",
+    "due_date": "2026-07-15",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-140",
+    "team": "Platform",
+    "title": "Login Refactor task 40",
+    "status": "Done",
+    "assignee": "Marco",
+    "due_date": "2026-07-17",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "Done",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-141",
+    "team": "Platform",
+    "title": "Integration work (Platform)",
+    "status": "Blocked",
+    "assignee": "Aisha",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-26"
+      },
+      {
+        "status": "Blocked",
+        "date": "2026-07-02"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Marco",
+        "date": "2026-07-02",
+        "text": "Blocked: staging environment is down."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-142",
+    "team": "Payments",
+    "title": "Integration work (Payments)",
+    "status": "Blocked",
+    "assignee": "Ravi",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-26"
+      },
+      {
+        "status": "Blocked",
+        "date": "2026-07-01"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Sofia",
+        "date": "2026-07-01",
+        "text": "Blocked: waiting on fraud-check API keys."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-143",
+    "team": "Mobile",
+    "title": "Integration work (Mobile)",
+    "status": "Blocked",
+    "assignee": "Lena",
+    "due_date": "2026-07-09",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-26"
+      },
+      {
+        "status": "Blocked",
+        "date": "2026-07-03"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Chris",
+        "date": "2026-07-03",
+        "text": "Blocked: blocked by app store review."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-144",
+    "team": "Platform",
+    "title": "Release prep (Platform)",
+    "status": "In Progress",
+    "assignee": "Marco",
+    "due_date": "2026-07-08",
+    "due_date_history": [
+      "2026-06-16",
+      "2026-06-26",
+      "2026-07-08"
+    ],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Marco",
+        "date": "2026-07-04",
+        "text": "Hopefully this lands this week, not sure yet."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-145",
+    "team": "Payments",
+    "title": "Release prep (Payments)",
+    "status": "In Progress",
+    "assignee": "Sofia",
+    "due_date": "2026-07-08",
+    "due_date_history": [
+      "2026-06-16",
+      "2026-06-26",
+      "2026-07-08"
+    ],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Sofia",
+        "date": "2026-07-04",
+        "text": "Hopefully this lands this week, not sure yet."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-146",
+    "team": "Mobile",
+    "title": "Release prep (Mobile)",
+    "status": "In Progress",
+    "assignee": "Chris",
+    "due_date": "2026-07-08",
+    "due_date_history": [
+      "2026-06-16",
+      "2026-06-26",
+      "2026-07-08"
+    ],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Chris",
+        "date": "2026-07-04",
+        "text": "Hopefully this lands this week, not sure yet."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-147",
+    "team": "Platform",
+    "title": "Data migration (Platform)",
+    "status": "In Progress",
+    "assignee": "Jen",
+    "due_date": "2026-07-10",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-06-28",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-148",
+    "team": "Payments",
+    "title": "Data migration (Payments)",
+    "status": "In Progress",
+    "assignee": "Tom",
+    "due_date": "2026-07-10",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-06-28",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-149",
+    "team": "Mobile",
+    "title": "Data migration (Mobile)",
+    "status": "In Progress",
+    "assignee": "Priya",
+    "due_date": "2026-07-10",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-06-28",
+    "comments": [],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-150",
+    "team": "Platform",
+    "title": "Auth rollout step 1",
+    "status": "In Progress",
+    "assignee": "Aisha",
+    "due_date": "2026-07-04",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Aisha",
+        "date": "2026-07-05",
+        "text": "This depends on the previous rollout step shipping first."
+      }
+    ],
+    "blocked_by": []
+  },
+  {
+    "id": "PRJ-151",
+    "team": "Payments",
+    "title": "Auth rollout step 2",
+    "status": "In Progress",
+    "assignee": "Ravi",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Ravi",
+        "date": "2026-07-05",
+        "text": "This depends on the previous rollout step shipping first."
+      }
+    ],
+    "blocked_by": [
+      "PRJ-150"
+    ]
+  },
+  {
+    "id": "PRJ-152",
+    "team": "Mobile",
+    "title": "Auth rollout step 3",
+    "status": "In Progress",
+    "assignee": "Lena",
+    "due_date": "2026-07-11",
+    "due_date_history": [],
+    "status_history": [
+      {
+        "status": "In Progress",
+        "date": "2026-06-29"
+      }
+    ],
+    "last_activity": "2026-07-05",
+    "comments": [
+      {
+        "author": "Lena",
+        "date": "2026-07-05",
+        "text": "This depends on the previous rollout step shipping first."
+      }
+    ],
+    "blocked_by": [
+      "PRJ-151"
+    ]
+  }
+]
